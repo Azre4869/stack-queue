@@ -37,7 +37,7 @@ infotype top(Stack S);
 typedef struct {
     address head;
     address tail;
-    int count; // Untuk mengecek isFull (opsional di LL, tapi ada di screenshot)
+    int count; // Untuk mengecek isFull
 } Queue;
 
 // Prototipe Queue
