@@ -5,9 +5,9 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-#define SIZE_INIT 5 // Contoh batas maksimal elemen untuk isFull
+#define SIZE_INIT 5 //batas maksimal elemen untuk isFull
 
-// Definisi tipe data elemen (misal integer)
+// Definisi tipe data elemen
 typedef int infotype;
 
 // Definisi Node (Elemen)
